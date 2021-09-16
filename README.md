@@ -1,2 +1,2 @@
-# Embedded_C
+# Embedded-C
 Case Study on Embedded-C
