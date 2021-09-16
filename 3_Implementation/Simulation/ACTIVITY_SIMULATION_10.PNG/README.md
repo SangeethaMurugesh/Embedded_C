@@ -1,2 +1,3 @@
-<img width="287" alt="ACTIVITY1_SIMULATION_11" src="https://user-images.githubusercontent.com/89767101/133652772-01f7df1f-bcfb-487d-852f-88f0a615b9f3.png">
+<img width="290" alt="ACTIVITY1_SIMULATION_10" src="https://user-images.githubusercontent.com/89767101/133652769-11219197-cba5-438f-9f5b-8e4c365572cb.png">
+
 
