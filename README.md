@@ -18,3 +18,6 @@ Folder             | Description
 * Static code analysis using cppcheck
 * Code Quality using Codacy
 * Automated code reviews by code inspector
+
+![Code Quality Score](https://www.code-inspector.com/project/28749/score/svg)
+![Code Grade}(https://www.code-inspector.com/project/28749/status/svg)
