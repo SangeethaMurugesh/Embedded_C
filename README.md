@@ -3,8 +3,6 @@ Case Study on Embedded-C
 
 # SEAT HEATING APPLICATION #
 
-<img src="https://www.code-inspector.com/project/28769/status/svg">
-
 
 ## Folder Structure
 Folder             | Description
@@ -20,4 +18,4 @@ Folder             | Description
 * Automated code reviews by code inspector
 
 ![Code Quality Score](https://www.code-inspector.com/project/28749/score/svg)
-![Code Grade}(https://www.code-inspector.com/project/28749/status/svg)
+![Code Grade](https://www.code-inspector.com/project/28749/status/svg)
